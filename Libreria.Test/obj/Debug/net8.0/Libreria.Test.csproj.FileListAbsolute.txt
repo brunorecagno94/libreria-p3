@@ -1,0 +1,36 @@
+D:\dentone\Libreria\Libreria.Test\bin\Debug\net8.0\Libreria.Test.exe
+D:\dentone\Libreria\Libreria.Test\bin\Debug\net8.0\Libreria.Test.deps.json
+D:\dentone\Libreria\Libreria.Test\bin\Debug\net8.0\Libreria.Test.runtimeconfig.json
+D:\dentone\Libreria\Libreria.Test\bin\Debug\net8.0\Libreria.Test.dll
+D:\dentone\Libreria\Libreria.Test\bin\Debug\net8.0\Libreria.Test.pdb
+D:\dentone\Libreria\Libreria.Test\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\dentone\Libreria\Libreria.Test\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\dentone\Libreria\Libreria.Test\obj\Debug\net8.0\Libreria.Test.csproj.AssemblyReference.cache
+D:\dentone\Libreria\Libreria.Test\obj\Debug\net8.0\Libreria.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\dentone\Libreria\Libreria.Test\obj\Debug\net8.0\Libreria.Test.AssemblyInfoInputs.cache
+D:\dentone\Libreria\Libreria.Test\obj\Debug\net8.0\Libreria.Test.AssemblyInfo.cs
+D:\dentone\Libreria\Libreria.Test\obj\Debug\net8.0\Libreria.Test.csproj.CoreCompileInputs.cache
+D:\dentone\Libreria\Libreria.Test\obj\Debug\net8.0\Libreria.AC865CE0.Up2Date
+D:\dentone\Libreria\Libreria.Test\obj\Debug\net8.0\Libreria.Test.dll
+D:\dentone\Libreria\Libreria.Test\obj\Debug\net8.0\refint\Libreria.Test.dll
+D:\dentone\Libreria\Libreria.Test\obj\Debug\net8.0\Libreria.Test.pdb
+D:\dentone\Libreria\Libreria.Test\obj\Debug\net8.0\Libreria.Test.genruntimeconfig.cache
+D:\dentone\Libreria\Libreria.Test\obj\Debug\net8.0\ref\Libreria.Test.dll
+C:\VS CODE COSAS\P3\Libreria\Libreria.Test\bin\Debug\net8.0\Libreria.Test.exe
+C:\VS CODE COSAS\P3\Libreria\Libreria.Test\bin\Debug\net8.0\Libreria.Test.deps.json
+C:\VS CODE COSAS\P3\Libreria\Libreria.Test\bin\Debug\net8.0\Libreria.Test.runtimeconfig.json
+C:\VS CODE COSAS\P3\Libreria\Libreria.Test\bin\Debug\net8.0\Libreria.Test.dll
+C:\VS CODE COSAS\P3\Libreria\Libreria.Test\bin\Debug\net8.0\Libreria.Test.pdb
+C:\VS CODE COSAS\P3\Libreria\Libreria.Test\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+C:\VS CODE COSAS\P3\Libreria\Libreria.Test\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+C:\VS CODE COSAS\P3\Libreria\Libreria.Test\obj\Debug\net8.0\Libreria.Test.csproj.AssemblyReference.cache
+C:\VS CODE COSAS\P3\Libreria\Libreria.Test\obj\Debug\net8.0\Libreria.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS CODE COSAS\P3\Libreria\Libreria.Test\obj\Debug\net8.0\Libreria.Test.AssemblyInfoInputs.cache
+C:\VS CODE COSAS\P3\Libreria\Libreria.Test\obj\Debug\net8.0\Libreria.Test.AssemblyInfo.cs
+C:\VS CODE COSAS\P3\Libreria\Libreria.Test\obj\Debug\net8.0\Libreria.Test.csproj.CoreCompileInputs.cache
+C:\VS CODE COSAS\P3\Libreria\Libreria.Test\obj\Debug\net8.0\Libreria.AC865CE0.Up2Date
+C:\VS CODE COSAS\P3\Libreria\Libreria.Test\obj\Debug\net8.0\Libreria.Test.dll
+C:\VS CODE COSAS\P3\Libreria\Libreria.Test\obj\Debug\net8.0\refint\Libreria.Test.dll
+C:\VS CODE COSAS\P3\Libreria\Libreria.Test\obj\Debug\net8.0\Libreria.Test.pdb
+C:\VS CODE COSAS\P3\Libreria\Libreria.Test\obj\Debug\net8.0\Libreria.Test.genruntimeconfig.cache
+C:\VS CODE COSAS\P3\Libreria\Libreria.Test\obj\Debug\net8.0\ref\Libreria.Test.dll

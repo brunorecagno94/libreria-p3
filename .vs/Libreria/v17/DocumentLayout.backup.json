@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VS CODE COSAS\\P3\\Libreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCCBE59-AE3D-4375-B053-0350C7383EB4}|Libreria.WebApp\\Libreria.WebApp.csproj|c:\\vs code cosas\\p3\\libreria\\libreria.webapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCCBE59-AE3D-4375-B053-0350C7383EB4}|Libreria.WebApp\\Libreria.WebApp.csproj|solutionrelative:libreria.webapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537D324D-0CB0-4A2B-8EFB-2C794A4E5CE0}|Libreria.LogicaAplicacion\\Libreria.LogicaAplicacion.csproj|c:\\vs code cosas\\p3\\libreria\\libreria.logicaaplicacion\\casosuso\\usuarios\\getallusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537D324D-0CB0-4A2B-8EFB-2C794A4E5CE0}|Libreria.LogicaAplicacion\\Libreria.LogicaAplicacion.csproj|solutionrelative:libreria.logicaaplicacion\\casosuso\\usuarios\\getallusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58762C95-8D65-4192-9776-7E15B6E0D5F2}|Libreria.LogicaAccesoDatos\\Libreria.LogicaAccesoDatos.csproj|c:\\vs code cosas\\p3\\libreria\\libreria.logicaaccesodatos\\listas\\repositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58762C95-8D65-4192-9776-7E15B6E0D5F2}|Libreria.LogicaAccesoDatos\\Libreria.LogicaAccesoDatos.csproj|solutionrelative:libreria.logicaaccesodatos\\listas\\repositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537D324D-0CB0-4A2B-8EFB-2C794A4E5CE0}|Libreria.LogicaAplicacion\\Libreria.LogicaAplicacion.csproj|c:\\vs code cosas\\p3\\libreria\\libreria.logicaaplicacion\\casosuso\\usuarios\\addusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537D324D-0CB0-4A2B-8EFB-2C794A4E5CE0}|Libreria.LogicaAplicacion\\Libreria.LogicaAplicacion.csproj|solutionrelative:libreria.logicaaplicacion\\casosuso\\usuarios\\addusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537D324D-0CB0-4A2B-8EFB-2C794A4E5CE0}|Libreria.LogicaAplicacion\\Libreria.LogicaAplicacion.csproj|c:\\vs code cosas\\p3\\libreria\\libreria.logicaaplicacion\\casosuso\\usuarios\\getbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537D324D-0CB0-4A2B-8EFB-2C794A4E5CE0}|Libreria.LogicaAplicacion\\Libreria.LogicaAplicacion.csproj|solutionrelative:libreria.logicaaplicacion\\casosuso\\usuarios\\getbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537D324D-0CB0-4A2B-8EFB-2C794A4E5CE0}|Libreria.LogicaAplicacion\\Libreria.LogicaAplicacion.csproj|c:\\vs code cosas\\p3\\libreria\\libreria.logicaaplicacion\\casosuso\\usuarios\\removeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537D324D-0CB0-4A2B-8EFB-2C794A4E5CE0}|Libreria.LogicaAplicacion\\Libreria.LogicaAplicacion.csproj|solutionrelative:libreria.logicaaplicacion\\casosuso\\usuarios\\removeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetById.cs",
+              "DocumentMoniker": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAplicacion\\CasosUso\\Usuarios\\GetById.cs",
+              "RelativeDocumentMoniker": "Libreria.LogicaAplicacion\\CasosUso\\Usuarios\\GetById.cs",
+              "ToolTip": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAplicacion\\CasosUso\\Usuarios\\GetById.cs",
+              "RelativeToolTip": "Libreria.LogicaAplicacion\\CasosUso\\Usuarios\\GetById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T00:32:43.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.WebApp\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Libreria.WebApp\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.WebApp\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Libreria.WebApp\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T00:09:08.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllUsuario.cs",
+              "DocumentMoniker": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAplicacion\\CasosUso\\Usuarios\\GetAllUsuario.cs",
+              "RelativeDocumentMoniker": "Libreria.LogicaAplicacion\\CasosUso\\Usuarios\\GetAllUsuario.cs",
+              "ToolTip": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAplicacion\\CasosUso\\Usuarios\\GetAllUsuario.cs",
+              "RelativeToolTip": "Libreria.LogicaAplicacion\\CasosUso\\Usuarios\\GetAllUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T00:05:19.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RemoveUsuario.cs",
+              "DocumentMoniker": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAplicacion\\CasosUso\\Usuarios\\RemoveUsuario.cs",
+              "RelativeDocumentMoniker": "Libreria.LogicaAplicacion\\CasosUso\\Usuarios\\RemoveUsuario.cs",
+              "ToolTip": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAplicacion\\CasosUso\\Usuarios\\RemoveUsuario.cs",
+              "RelativeToolTip": "Libreria.LogicaAplicacion\\CasosUso\\Usuarios\\RemoveUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T00:05:23.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddUsuario.cs",
+              "DocumentMoniker": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAplicacion\\CasosUso\\Usuarios\\AddUsuario.cs",
+              "RelativeDocumentMoniker": "Libreria.LogicaAplicacion\\CasosUso\\Usuarios\\AddUsuario.cs",
+              "ToolTip": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAplicacion\\CasosUso\\Usuarios\\AddUsuario.cs",
+              "RelativeToolTip": "Libreria.LogicaAplicacion\\CasosUso\\Usuarios\\AddUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T00:04:47.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositorioUsuario.cs",
+              "DocumentMoniker": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAccesoDatos\\Listas\\RepositorioUsuario.cs",
+              "RelativeDocumentMoniker": "Libreria.LogicaAccesoDatos\\Listas\\RepositorioUsuario.cs",
+              "ToolTip": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAccesoDatos\\Listas\\RepositorioUsuario.cs",
+              "RelativeToolTip": "Libreria.LogicaAccesoDatos\\Listas\\RepositorioUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:58:44.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

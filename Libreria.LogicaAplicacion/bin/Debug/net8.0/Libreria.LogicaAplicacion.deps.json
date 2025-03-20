@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Libreria.LogicaAplicacion/1.0.0": {
+        "dependencies": {
+          "Libreria.LogicaAccesoDatos": "1.0.0",
+          "Libreria.LogicaNegocio": "1.0.0"
+        },
+        "runtime": {
+          "Libreria.LogicaAplicacion.dll": {}
+        }
+      },
+      "Libreria.LogicaAccesoDatos/1.0.0": {
+        "dependencies": {
+          "Libreria.LogicaNegocio": "1.0.0"
+        },
+        "runtime": {
+          "Libreria.LogicaAccesoDatos.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Libreria.LogicaNegocio/1.0.0": {
+        "runtime": {
+          "Libreria.LogicaNegocio.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Libreria.LogicaAplicacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Libreria.LogicaAccesoDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Libreria.LogicaNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

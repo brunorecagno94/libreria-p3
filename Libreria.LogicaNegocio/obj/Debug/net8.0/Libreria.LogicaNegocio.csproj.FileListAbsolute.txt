@@ -1,0 +1,22 @@
+D:\dentone\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.deps.json
+D:\dentone\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\dentone\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\dentone\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\dentone\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+D:\dentone\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+D:\dentone\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\dentone\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\dentone\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\refint\Libreria.LogicaNegocio.dll
+D:\dentone\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\dentone\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\ref\Libreria.LogicaNegocio.dll
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.deps.json
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.dll
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\refint\Libreria.LogicaNegocio.dll
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.pdb
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\ref\Libreria.LogicaNegocio.dll

@@ -1,0 +1,17 @@
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAplicacion\bin\Debug\net8.0\Libreria.LogicaAplicacion.deps.json
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAplicacion\bin\Debug\net8.0\Libreria.LogicaAplicacion.dll
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAplicacion\bin\Debug\net8.0\Libreria.LogicaAplicacion.pdb
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAplicacion\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.dll
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAplicacion\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAplicacion\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.pdb
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAplicacion\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAplicacion\obj\Debug\net8.0\Libreria.LogicaAplicacion.csproj.AssemblyReference.cache
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAplicacion\obj\Debug\net8.0\Libreria.LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAplicacion\obj\Debug\net8.0\Libreria.LogicaAplicacion.AssemblyInfoInputs.cache
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAplicacion\obj\Debug\net8.0\Libreria.LogicaAplicacion.AssemblyInfo.cs
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAplicacion\obj\Debug\net8.0\Libreria.LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAplicacion\obj\Debug\net8.0\Libreria.DFC03C8F.Up2Date
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAplicacion\obj\Debug\net8.0\Libreria.LogicaAplicacion.dll
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAplicacion\obj\Debug\net8.0\refint\Libreria.LogicaAplicacion.dll
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAplicacion\obj\Debug\net8.0\Libreria.LogicaAplicacion.pdb
+C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAplicacion\obj\Debug\net8.0\ref\Libreria.LogicaAplicacion.dll
