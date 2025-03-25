@@ -4,11 +4,12 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Crear</h1>
-<h3 class="text-danger">@ViewBag.Message</h3>
+<h1>Alta</h1>
 
-<h4>Usuario</h4>
 <hr />
+
+@ViewBag.message
+
 <div class="row">
     <div class="col-md-4">
         <form asp-action="Create">
@@ -29,6 +30,16 @@
                 <span asp-validation-for="Email" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Rol" class="control-label"></label>
+                <input asp-for="Rol" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
@@ -36,11 +47,9 @@
 </div>
 
 <div>
-    <a asp-action="Index">Volver a la lista</a>
+    <a href="/usuario/index">Back to List</a>
 </div>
 
 @section Scripts {
-    @{
-        await Html.RenderPartialAsync("_ValidationScriptsPartial");
-    }
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }

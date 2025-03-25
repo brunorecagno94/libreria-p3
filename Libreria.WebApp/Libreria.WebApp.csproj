@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Libreria.CasoDeUso-Compartida\Libreria.CasoDeUso-Compartida.csproj" />
     <ProjectReference Include="..\Libreria.LogicaAplicacion\Libreria.LogicaAplicacion.csproj" />
     <ProjectReference Include="..\Libreria.LogicaNegocio\Libreria.LogicaNegocio.csproj" />
   </ItemGroup>

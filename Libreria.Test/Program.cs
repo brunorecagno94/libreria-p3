@@ -9,19 +9,31 @@ namespace Libreria.Test
         {
             try
             {
-                Usuario u = new Usuario(1, "Nombre", "mail@gmail.com");
-                Console.WriteLine(u.Id);
+                Usuario u = new Usuario(1, "", "asdf","","");
                 Console.WriteLine(u.Nombre);
+                Console.WriteLine(u.Id);
                 Console.WriteLine(u.Email);
             }
-           catch (UsuarioException us)
+            //catch (NombreException)
+            //{
+            //    Console.WriteLine("El nombre ingresado no es correcto");
+            //}
+            //catch (EmailException)
+            //{
+            //    Console.WriteLine("El email ingresado no es correcto");
+            //}
+            //catch (IdException)
+            //{
+            //    Console.WriteLine("El id ingresado no es correcto");
+            //}
+            catch (UsuarioException)
             {
-                Console.WriteLine("Datos incorrectos");
+                Console.WriteLine("Ingreso mal los datos");
             }
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
-            }
+            }            
         }
     }
 }

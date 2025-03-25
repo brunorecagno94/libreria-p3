@@ -1,0 +1,15 @@
+D:\Dentone\Semana 3\Libreria\Libreria.CasoDeUso-Compartida\bin\Debug\net8.0\Libreria.CasoDeUso-Compartida.deps.json
+D:\Dentone\Semana 3\Libreria\Libreria.CasoDeUso-Compartida\bin\Debug\net8.0\Libreria.CasoDeUso-Compartida.dll
+D:\Dentone\Semana 3\Libreria\Libreria.CasoDeUso-Compartida\bin\Debug\net8.0\Libreria.CasoDeUso-Compartida.pdb
+D:\Dentone\Semana 3\Libreria\Libreria.CasoDeUso-Compartida\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\Dentone\Semana 3\Libreria\Libreria.CasoDeUso-Compartida\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\Dentone\Semana 3\Libreria\Libreria.CasoDeUso-Compartida\obj\Debug\net8.0\Libreria.CasoDeUso-Compartida.csproj.AssemblyReference.cache
+D:\Dentone\Semana 3\Libreria\Libreria.CasoDeUso-Compartida\obj\Debug\net8.0\Libreria.CasoDeUso-Compartida.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dentone\Semana 3\Libreria\Libreria.CasoDeUso-Compartida\obj\Debug\net8.0\Libreria.CasoDeUso-Compartida.AssemblyInfoInputs.cache
+D:\Dentone\Semana 3\Libreria\Libreria.CasoDeUso-Compartida\obj\Debug\net8.0\Libreria.CasoDeUso-Compartida.AssemblyInfo.cs
+D:\Dentone\Semana 3\Libreria\Libreria.CasoDeUso-Compartida\obj\Debug\net8.0\Libreria.CasoDeUso-Compartida.csproj.CoreCompileInputs.cache
+D:\Dentone\Semana 3\Libreria\Libreria.CasoDeUso-Compartida\obj\Debug\net8.0\Libreria.864ABCD4.Up2Date
+D:\Dentone\Semana 3\Libreria\Libreria.CasoDeUso-Compartida\obj\Debug\net8.0\Libreria.CasoDeUso-Compartida.dll
+D:\Dentone\Semana 3\Libreria\Libreria.CasoDeUso-Compartida\obj\Debug\net8.0\refint\Libreria.CasoDeUso-Compartida.dll
+D:\Dentone\Semana 3\Libreria\Libreria.CasoDeUso-Compartida\obj\Debug\net8.0\Libreria.CasoDeUso-Compartida.pdb
+D:\Dentone\Semana 3\Libreria\Libreria.CasoDeUso-Compartida\obj\Debug\net8.0\ref\Libreria.CasoDeUso-Compartida.dll

@@ -5,11 +5,27 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Listado de usuarios</h1>
+<h1>Listado de usuario</h1>
 
 <p>
-    <a asp-action="Create">Crear usuario</a>
+    <a asp-action="Create">Nuevo Usuario</a>
 </p>
+
+
+<div>    
+    <form action="/Usuario/Details">
+        <input type="string" name="id" placeholder="Identificador"/>    
+        <button type="submit">Buscar</button>
+    </form>
+</div>
+
+<div>
+    <form action="/Usuario/SerchName">
+        <input type="string" name="nombre" placeholder="Nombre" />
+        <button type="submit">Buscar</button>
+    </form>
+</div>
+
 <table class="table">
     <thead>
         <tr>
@@ -38,9 +54,9 @@
                 @Html.DisplayFor(modelItem => item.Email)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+                @Html.ActionLink("Editar", "Edit", new { id=item.Id }) |
+                @Html.ActionLink("Detalle", "Details", new { id=item.Id }) |
+                @Html.ActionLink("Borrar", "Delete", new {  id=item.Id  })
             </td>
         </tr>
 }

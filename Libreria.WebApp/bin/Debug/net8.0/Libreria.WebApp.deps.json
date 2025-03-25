@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "Libreria.WebApp/1.0.0": {
         "dependencies": {
+          "Libreria.CasoDeUso-Compartida": "1.0.0",
           "Libreria.LogicaAplicacion": "1.0.0",
           "Libreria.LogicaNegocio": "1.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7"
@@ -1485,6 +1486,17 @@
           }
         }
       },
+      "Libreria.CasoDeUsoCompartida/1.0.0": {
+        "dependencies": {
+          "Libreria.LogicaNegocio": "1.0.0"
+        },
+        "runtime": {
+          "Libreria.CasoDeUsoCompartida.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Libreria.LogicaAccesoDatos/1.0.0": {
         "dependencies": {
           "Libreria.LogicaNegocio": "1.0.0"
@@ -1498,6 +1510,7 @@
       },
       "Libreria.LogicaAplicacion/1.0.0": {
         "dependencies": {
+          "Libreria.CasoDeUsoCompartida": "1.0.0",
           "Libreria.LogicaAccesoDatos": "1.0.0",
           "Libreria.LogicaNegocio": "1.0.0"
         },
@@ -2335,6 +2348,11 @@
       "sha512": "sha512-bR4qdCmssMMbo9Fatci49An5B1UaVJZHKNq70PRgzoLYIlitb8Tj7ns/Xt5Pz1CkERiTjcVBDU2y1AVrPBYkaw==",
       "path": "system.windows.extensions/7.0.0",
       "hashPath": "system.windows.extensions.7.0.0.nupkg.sha512"
+    },
+    "Libreria.CasoDeUsoCompartida/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Libreria.LogicaAccesoDatos/1.0.0": {
       "type": "project",

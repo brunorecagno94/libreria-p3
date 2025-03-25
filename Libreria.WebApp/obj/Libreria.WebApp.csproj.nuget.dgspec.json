@@ -1,23 +1,163 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.WebApp\\Libreria.WebApp.csproj": {}
+    "D:\\Dentone\\Semana 3\\Libreria\\Libreria.WebApp\\Libreria.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAccesoDatos\\Libreria.LogicaAccesoDatos.csproj": {
+    "D:\\Dentone\\Semana 3\\Libreria\\Libreria.CasoDeUso-Compartida\\Libreria.CasoDeUso-Compartida.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAccesoDatos\\Libreria.LogicaAccesoDatos.csproj",
+        "projectUniqueName": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.CasoDeUso-Compartida\\Libreria.CasoDeUso-Compartida.csproj",
+        "projectName": "Libreria.CasoDeUso-Compartida",
+        "projectPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.CasoDeUso-Compartida\\Libreria.CasoDeUso-Compartida.csproj",
+        "packagesPath": "C:\\Users\\alumnoFI\\.nuget\\packages\\",
+        "outputPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.CasoDeUso-Compartida\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alumnoFI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj": {
+                "projectPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dentone\\Semana 3\\Libreria\\Libreria.CasoDeUsoCompartida\\Libreria.CasoDeUsoCompartida.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.CasoDeUsoCompartida\\Libreria.CasoDeUsoCompartida.csproj",
+        "projectName": "Libreria.CasoDeUsoCompartida",
+        "projectPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.CasoDeUsoCompartida\\Libreria.CasoDeUsoCompartida.csproj",
+        "packagesPath": "C:\\Users\\alumnoFI\\.nuget\\packages\\",
+        "outputPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.CasoDeUsoCompartida\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alumnoFI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj": {
+                "projectPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaAccesoDatos\\Libreria.LogicaAccesoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaAccesoDatos\\Libreria.LogicaAccesoDatos.csproj",
         "projectName": "Libreria.LogicaAccesoDatos",
-        "projectPath": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAccesoDatos\\Libreria.LogicaAccesoDatos.csproj",
-        "packagesPath": "C:\\Users\\BRecagno\\.nuget\\packages\\",
-        "outputPath": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAccesoDatos\\obj\\",
+        "projectPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaAccesoDatos\\Libreria.LogicaAccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\alumnoFI\\.nuget\\packages\\",
+        "outputPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaAccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\BRecagno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alumnoFI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +166,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj": {
-                "projectPath": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj"
+              "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj": {
+                "projectPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj"
               }
             }
           }
@@ -69,24 +210,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAplicacion\\Libreria.LogicaAplicacion.csproj": {
+    "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaAplicacion\\Libreria.LogicaAplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAplicacion\\Libreria.LogicaAplicacion.csproj",
+        "projectUniqueName": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaAplicacion\\Libreria.LogicaAplicacion.csproj",
         "projectName": "Libreria.LogicaAplicacion",
-        "projectPath": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAplicacion\\Libreria.LogicaAplicacion.csproj",
-        "packagesPath": "C:\\Users\\BRecagno\\.nuget\\packages\\",
-        "outputPath": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAplicacion\\obj\\",
+        "projectPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaAplicacion\\Libreria.LogicaAplicacion.csproj",
+        "packagesPath": "C:\\Users\\alumnoFI\\.nuget\\packages\\",
+        "outputPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaAplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\BRecagno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alumnoFI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -95,17 +236,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAccesoDatos\\Libreria.LogicaAccesoDatos.csproj": {
-                "projectPath": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAccesoDatos\\Libreria.LogicaAccesoDatos.csproj"
+              "D:\\Dentone\\Semana 3\\Libreria\\Libreria.CasoDeUsoCompartida\\Libreria.CasoDeUsoCompartida.csproj": {
+                "projectPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.CasoDeUsoCompartida\\Libreria.CasoDeUsoCompartida.csproj"
               },
-              "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj": {
-                "projectPath": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj"
+              "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaAccesoDatos\\Libreria.LogicaAccesoDatos.csproj": {
+                "projectPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaAccesoDatos\\Libreria.LogicaAccesoDatos.csproj"
+              },
+              "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj": {
+                "projectPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj"
               }
             }
           }
@@ -141,24 +286,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj": {
+    "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj",
+        "projectUniqueName": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj",
         "projectName": "Libreria.LogicaNegocio",
-        "projectPath": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj",
-        "packagesPath": "C:\\Users\\BRecagno\\.nuget\\packages\\",
-        "outputPath": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaNegocio\\obj\\",
+        "projectPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj",
+        "packagesPath": "C:\\Users\\alumnoFI\\.nuget\\packages\\",
+        "outputPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaNegocio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\BRecagno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alumnoFI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -167,6 +312,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -206,24 +352,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.WebApp\\Libreria.WebApp.csproj": {
+    "D:\\Dentone\\Semana 3\\Libreria\\Libreria.WebApp\\Libreria.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.WebApp\\Libreria.WebApp.csproj",
+        "projectUniqueName": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.WebApp\\Libreria.WebApp.csproj",
         "projectName": "Libreria.WebApp",
-        "projectPath": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.WebApp\\Libreria.WebApp.csproj",
-        "packagesPath": "C:\\Users\\BRecagno\\.nuget\\packages\\",
-        "outputPath": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.WebApp\\obj\\",
+        "projectPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.WebApp\\Libreria.WebApp.csproj",
+        "packagesPath": "C:\\Users\\alumnoFI\\.nuget\\packages\\",
+        "outputPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\BRecagno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alumnoFI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -232,17 +378,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAplicacion\\Libreria.LogicaAplicacion.csproj": {
-                "projectPath": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaAplicacion\\Libreria.LogicaAplicacion.csproj"
+              "D:\\Dentone\\Semana 3\\Libreria\\Libreria.CasoDeUso-Compartida\\Libreria.CasoDeUso-Compartida.csproj": {
+                "projectPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.CasoDeUso-Compartida\\Libreria.CasoDeUso-Compartida.csproj"
               },
-              "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj": {
-                "projectPath": "C:\\VS CODE COSAS\\P3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj"
+              "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaAplicacion\\Libreria.LogicaAplicacion.csproj": {
+                "projectPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaAplicacion\\Libreria.LogicaAplicacion.csproj"
+              },
+              "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj": {
+                "projectPath": "D:\\Dentone\\Semana 3\\Libreria\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj"
               }
             }
           }
@@ -287,7 +437,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

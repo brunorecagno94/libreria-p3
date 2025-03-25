@@ -1,237 +1,1179 @@
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\appsettings.Development.json
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\appsettings.json
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.staticwebassets.runtime.json
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.staticwebassets.endpoints.json
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.exe
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.deps.json
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.runtimeconfig.json
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.pdb
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.csproj.AssemblyReference.cache
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.AssemblyInfoInputs.cache
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.AssemblyInfo.cs
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.csproj.CoreCompileInputs.cache
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.MvcApplicationPartsAssemblyInfo.cache
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.RazorAssemblyInfo.cache
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.RazorAssemblyInfo.cs
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\scopedcss\bundle\Libreria.WebApp.styles.css
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\scopedcss\projectbundle\Libreria.WebApp.bundle.scp.css
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.build.json
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.development.json
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.Libreria.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.Libreria.WebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.Libreria.WebApp.props
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Libreria.WebApp.props
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Libreria.WebApp.props
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.pack.json
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.403EBBED.Up2Date
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\refint\Libreria.WebApp.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.pdb
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.genruntimeconfig.cache
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\obj\Debug\net8.0\ref\Libreria.WebApp.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Humanizer.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Build.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Build.Framework.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Common.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Configuration.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Frameworks.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.LibraryModel.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Packaging.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.ProjectModel.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Protocol.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Versioning.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.CodeDom.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.Convention.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.Hosting.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.Runtime.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Drawing.Common.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\af\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ar\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\az\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\bg\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\da\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\el\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fa\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\he\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\hr\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\hu\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\hy\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\id\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\is\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ku\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\lv\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\mt\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\nb\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\nl\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ro\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\sk\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\sl\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\sr\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\sv\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\uk\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\vi\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaAplicacion.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaAplicacion.pdb
-C:\VS CODE COSAS\P3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.pdb
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\appsettings.Development.json
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\appsettings.json
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.staticwebassets.runtime.json
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.staticwebassets.endpoints.json
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.exe
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.deps.json
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.runtimeconfig.json
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.pdb
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.csproj.AssemblyReference.cache
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.AssemblyInfoInputs.cache
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.AssemblyInfo.cs
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.csproj.CoreCompileInputs.cache
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.RazorAssemblyInfo.cache
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.RazorAssemblyInfo.cs
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\scopedcss\bundle\Libreria.WebApp.styles.css
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\scopedcss\projectbundle\Libreria.WebApp.bundle.scp.css
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.Libreria.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.Libreria.WebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.Libreria.WebApp.props
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Libreria.WebApp.props
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Libreria.WebApp.props
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.403EBBED.Up2Date
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\refint\Libreria.WebApp.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.pdb
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.genruntimeconfig.cache
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\ref\Libreria.WebApp.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Humanizer.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Build.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Common.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.CodeDom.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\dentone\16.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\appsettings.Development.json
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\appsettings.json
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.staticwebassets.runtime.json
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.staticwebassets.endpoints.json
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.exe
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.deps.json
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.runtimeconfig.json
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.pdb
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Humanizer.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Build.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Common.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.CodeDom.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.csproj.AssemblyReference.cache
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.AssemblyInfoInputs.cache
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.AssemblyInfo.cs
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.csproj.CoreCompileInputs.cache
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.RazorAssemblyInfo.cache
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.RazorAssemblyInfo.cs
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\scopedcss\bundle\Libreria.WebApp.styles.css
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\scopedcss\projectbundle\Libreria.WebApp.bundle.scp.css
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.Libreria.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.Libreria.WebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.Libreria.WebApp.props
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Libreria.WebApp.props
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Libreria.WebApp.props
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.403EBBED.Up2Date
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\refint\Libreria.WebApp.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.pdb
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.genruntimeconfig.cache
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.WebApp\obj\Debug\net8.0\ref\Libreria.WebApp.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\appsettings.Development.json
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\appsettings.json
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.staticwebassets.runtime.json
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.staticwebassets.endpoints.json
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.exe
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.deps.json
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.runtimeconfig.json
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.pdb
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Humanizer.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Build.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Common.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.CodeDom.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaAplicacion.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaAplicacion.pdb
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\dentone\semana 02\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.pdb
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.csproj.AssemblyReference.cache
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.AssemblyInfoInputs.cache
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.AssemblyInfo.cs
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.csproj.CoreCompileInputs.cache
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.RazorAssemblyInfo.cache
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.RazorAssemblyInfo.cs
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\scopedcss\bundle\Libreria.WebApp.styles.css
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\scopedcss\projectbundle\Libreria.WebApp.bundle.scp.css
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.Libreria.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.Libreria.WebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.Libreria.WebApp.props
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Libreria.WebApp.props
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Libreria.WebApp.props
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.403EBBED.Up2Date
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\refint\Libreria.WebApp.dll
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.pdb
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.genruntimeconfig.cache
+D:\dentone\semana 02\Libreria\Libreria.WebApp\obj\Debug\net8.0\ref\Libreria.WebApp.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.csproj.AssemblyReference.cache
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.AssemblyInfoInputs.cache
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.AssemblyInfo.cs
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.csproj.CoreCompileInputs.cache
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.RazorAssemblyInfo.cache
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.RazorAssemblyInfo.cs
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\refint\Libreria.WebApp.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.pdb
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\appsettings.json
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.staticwebassets.runtime.json
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.staticwebassets.endpoints.json
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.exe
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.deps.json
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.runtimeconfig.json
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.pdb
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Humanizer.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Build.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Common.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.CodeDom.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaAplicacion.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaAplicacion.pdb
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.pdb
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\scopedcss\bundle\Libreria.WebApp.styles.css
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\scopedcss\projectbundle\Libreria.WebApp.bundle.scp.css
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.Libreria.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.Libreria.WebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.Libreria.WebApp.props
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Libreria.WebApp.props
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Libreria.WebApp.props
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.403EBBED.Up2Date
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.genruntimeconfig.cache
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.WebApp\obj\Debug\net8.0\ref\Libreria.WebApp.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\appsettings.Development.json
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\appsettings.json
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.staticwebassets.runtime.json
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.staticwebassets.endpoints.json
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.exe
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.deps.json
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.runtimeconfig.json
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.WebApp.pdb
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Humanizer.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Common.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.CodeDom.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaAplicacion.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaAplicacion.pdb
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.pdb
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.csproj.AssemblyReference.cache
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.AssemblyInfoInputs.cache
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.AssemblyInfo.cs
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.csproj.CoreCompileInputs.cache
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.RazorAssemblyInfo.cache
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.RazorAssemblyInfo.cs
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\scopedcss\bundle\Libreria.WebApp.styles.css
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\scopedcss\projectbundle\Libreria.WebApp.bundle.scp.css
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.Libreria.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.Libreria.WebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.Libreria.WebApp.props
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Libreria.WebApp.props
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Libreria.WebApp.props
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.403EBBED.Up2Date
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\refint\Libreria.WebApp.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.pdb
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\Libreria.WebApp.genruntimeconfig.cache
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\obj\Debug\net8.0\ref\Libreria.WebApp.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.CasoDeUsoCompartida.dll
+D:\Dentone\Semana 3\Libreria\Libreria.WebApp\bin\Debug\net8.0\Libreria.CasoDeUsoCompartida.pdb

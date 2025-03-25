@@ -1,15 +1,60 @@
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.deps.json
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.pdb
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.csproj.AssemblyReference.cache
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.AssemblyInfoInputs.cache
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.AssemblyInfo.cs
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.csproj.CoreCompileInputs.cache
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.8C1FDEBA.Up2Date
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\refint\Libreria.LogicaAccesoDatos.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.pdb
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\ref\Libreria.LogicaAccesoDatos.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.deps.json
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.pdb
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.csproj.AssemblyReference.cache
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.AssemblyInfoInputs.cache
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.AssemblyInfo.cs
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.8C1FDEBA.Up2Date
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\refint\Libreria.LogicaAccesoDatos.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.pdb
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\ref\Libreria.LogicaAccesoDatos.dll
+D:\dentone\semana 02\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.deps.json
+D:\dentone\semana 02\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.dll
+D:\dentone\semana 02\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.pdb
+D:\dentone\semana 02\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\dentone\semana 02\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\dentone\semana 02\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.csproj.AssemblyReference.cache
+D:\dentone\semana 02\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\dentone\semana 02\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.AssemblyInfoInputs.cache
+D:\dentone\semana 02\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.AssemblyInfo.cs
+D:\dentone\semana 02\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+D:\dentone\semana 02\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.8C1FDEBA.Up2Date
+D:\dentone\semana 02\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.dll
+D:\dentone\semana 02\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\refint\Libreria.LogicaAccesoDatos.dll
+D:\dentone\semana 02\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.pdb
+D:\dentone\semana 02\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\ref\Libreria.LogicaAccesoDatos.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.deps.json
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.pdb
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.AssemblyInfo.cs
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.8C1FDEBA.Up2Date
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\refint\Libreria.LogicaAccesoDatos.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.pdb
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\ref\Libreria.LogicaAccesoDatos.dll
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.deps.json
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.dll
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaAccesoDatos.pdb
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaAccesoDatos\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.csproj.AssemblyReference.cache
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.AssemblyInfoInputs.cache
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.AssemblyInfo.cs
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.8C1FDEBA.Up2Date
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.dll
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\refint\Libreria.LogicaAccesoDatos.dll
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\Libreria.LogicaAccesoDatos.pdb
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaAccesoDatos\obj\Debug\net8.0\ref\Libreria.LogicaAccesoDatos.dll

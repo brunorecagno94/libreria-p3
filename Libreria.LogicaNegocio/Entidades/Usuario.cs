@@ -1,4 +1,7 @@
-﻿using Libreria.LogicaNegocio.Excepciones.Usuario;
+﻿
+
+
+using Libreria.LogicaNegocio.Excepciones.Usuario;
 
 namespace Libreria.LogicaNegocio.Entidades
 {
@@ -7,23 +10,31 @@ namespace Libreria.LogicaNegocio.Entidades
         public int Id { get; set; }
         public string Nombre { get; set; }
         public string Email { get; set; }
-        public string Rol { get; set; }
         public string Password { get; set; }
-        public Usuario(int id, string nombre, string email)
+        public string Rol { get; set; }
+
+
+        public Usuario(int id, string nombre, string email, string password, string rol)
         {
             Id = id;
             Nombre = nombre;
             Email = email;
+            Password = password;
+            Rol = rol;
             Validar();
         }
-
+        
         private void Validar()
         {
             if (string.IsNullOrEmpty(Nombre))
-                throw new NombreException("El nombre ingresado no es correcto");
+                throw new NombreException("Ugyldig navn");
             if (string.IsNullOrEmpty(Email))
-                throw new EmailException("El email ingresado no es correcto");
-            if (Id <= 0) throw new IdException("El ID no es válido");
+                throw new EmailException("Email inválido");
+            if (string.IsNullOrEmpty(Password))
+                throw new EmailException("Password inválido");
+            if (string.IsNullOrEmpty(Rol))
+                throw new EmailException("Rol inválido");
+            if (Id <= 0) throw new IdException("Id invalido");
         }
 
     }

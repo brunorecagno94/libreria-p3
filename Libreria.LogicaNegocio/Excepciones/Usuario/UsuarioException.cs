@@ -1,6 +1,7 @@
-﻿namespace Libreria.LogicaNegocio.Excepciones.Usuario
+﻿
+namespace Libreria.LogicaNegocio.Excepciones.Usuario
 {
-    public class UsuarioException : LogicaNegocioException
+    public class UsuarioException : LogicaNegocioExpception
     {
         public UsuarioException()
         {

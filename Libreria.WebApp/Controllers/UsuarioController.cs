@@ -1,20 +1,45 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Libreria.CasoDeUso_Compartida.InterfacesCU;
+using Libreria.CasoDeUsoCompartida.DTOs.Usuarios;
+using Libreria.CasoDeUsoCompartida.InterfacesCU;
+using Libreria.CasoDeUsoCompartida.InterfacesCU.Usuarios;
 using Libreria.LogicaNegocio.Entidades;
 using Libreria.LogicaNegocio.Excepciones.Usuario;
 using Libreria.WebApp.Models;
-using Libreria.LogicaAplicacion.CasosUso.Usuarios;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Libreria.WebApp.Controllers
 {
     public class UsuarioController : Controller
     {
-        GetAllUsuario listaUsuarios = new GetAllUsuario();
-        AddUsuario agregarUsuario = new AddUsuario();
-        RemoveUsuario borrarUsuario = new RemoveUsuario();
+
+        IGetAll<Usuario> _getAll;
+        IAdd<UsuarioDto> _add;
+        IRemove _remove;
+        IGetByNameUsuario _getByName;
+        IGetById<Usuario> _getById;
+
+        public UsuarioController(IGetAll<Usuario> getAll,
+                                 IAdd<UsuarioDto> add,
+                                 IRemove remove,
+                                 IGetByNameUsuario getByName,
+                                 IGetById<Usuario> getById) 
+        {
+            _getAll = getAll;
+            _add = add;
+            _remove = remove;
+            _getByName = getByName;
+            _getById = getById;
+        }
+
 
         public IActionResult Index()
         {
-            return View(listaUsuarios.Execute());
+            return View(_getAll.Execute());
+        }
+
+        public IActionResult SerchName(string nombre)
+        {
+            return View("index",_getByName.Execute(nombre));
         }
 
         public IActionResult Create()
@@ -22,20 +47,27 @@ namespace Libreria.WebApp.Controllers
             return View();
         }
 
+        public IActionResult Details(int id)
+        { 
+            Usuario unU =  _getById.Execute(id);
+            if (unU == null)
+            {
+                return RedirectToAction("index");
+            }
+            return View(unU);
+        }
+
         [HttpPost]
         public IActionResult Create(VMUsuario usuario)
         {
             try
             {
-                Usuario nuevoUsuario = new Usuario(usuario.Id,
-                    usuario.Nombre,
-                    usuario.Email);
-                agregarUsuario.Execute(nuevoUsuario);
-                return RedirectToAction("Index");
-            }
-            catch (IdException)
-            {
-                ViewBag.Message = "El ID ingresado no es correcto";
+                UsuarioDto unU = new UsuarioDto();
+                
+                unU.Id = usuario.Id;
+
+                _add.Execute(unU);
+                return RedirectToAction("index");
             }
             catch (NombreException)
             {
@@ -45,18 +77,23 @@ namespace Libreria.WebApp.Controllers
             {
                 ViewBag.Message = "El email ingresado no es correcto";
             }
+            catch (IdException)
+            {
+                ViewBag.Message = "El id ingresado no es correcto";
+            }
             catch (Exception)
             {
                 ViewBag.Message = "Hubo un error";
-
             }
             return View();
+
         }
 
         public IActionResult Delete(int id)
         {
-            borrarUsuario.Execute(id);
-            return RedirectToAction("Index");
+            _remove.Execute(id);
+            return RedirectToAction("index");
         }
+
     }
 }

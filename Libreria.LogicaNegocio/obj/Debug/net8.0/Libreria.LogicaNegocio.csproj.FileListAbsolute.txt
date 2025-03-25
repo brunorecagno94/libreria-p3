@@ -9,14 +9,58 @@ D:\dentone\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegoc
 D:\dentone\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\refint\Libreria.LogicaNegocio.dll
 D:\dentone\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.pdb
 D:\dentone\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\ref\Libreria.LogicaNegocio.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.deps.json
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.AssemblyInfo.cs
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\refint\Libreria.LogicaNegocio.dll
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.pdb
-C:\VS CODE COSAS\P3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\ref\Libreria.LogicaNegocio.dll
+D:\dentone\16.Libreria\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.deps.json
+D:\dentone\16.Libreria\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\dentone\16.Libreria\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\dentone\16.Libreria\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\dentone\16.Libreria\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+D:\dentone\16.Libreria\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+D:\dentone\16.Libreria\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\dentone\16.Libreria\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\dentone\16.Libreria\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\refint\Libreria.LogicaNegocio.dll
+D:\dentone\16.Libreria\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\dentone\16.Libreria\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\ref\Libreria.LogicaNegocio.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.deps.json
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\refint\Libreria.LogicaNegocio.dll
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\dentone\semana 02\08.LibreriaV2\17.Libreria\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\ref\Libreria.LogicaNegocio.dll
+D:\dentone\semana 02\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.deps.json
+D:\dentone\semana 02\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\dentone\semana 02\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\dentone\semana 02\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\dentone\semana 02\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+D:\dentone\semana 02\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+D:\dentone\semana 02\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\dentone\semana 02\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\dentone\semana 02\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\refint\Libreria.LogicaNegocio.dll
+D:\dentone\semana 02\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\dentone\semana 02\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\ref\Libreria.LogicaNegocio.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.deps.json
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\refint\Libreria.LogicaNegocio.dll
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.pdb
+C:\ort\p3-2025-03\N3B\Semana 03\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\ref\Libreria.LogicaNegocio.dll
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.deps.json
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaNegocio\bin\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.dll
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\refint\Libreria.LogicaNegocio.dll
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\Libreria.LogicaNegocio.pdb
+D:\Dentone\Semana 3\Libreria\Libreria.LogicaNegocio\obj\Debug\net8.0\ref\Libreria.LogicaNegocio.dll

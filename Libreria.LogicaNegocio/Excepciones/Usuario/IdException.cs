@@ -2,7 +2,9 @@
 {
     public class IdException : UsuarioException
     {
-        public IdException() { }
+        public IdException()
+        {
+        }
 
         public IdException(string? message) : base(message)
         {
